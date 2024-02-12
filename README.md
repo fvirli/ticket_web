@@ -3,20 +3,19 @@
 Ini adalah aplikasi web untuk pembelian tiket konser yang dibangun menggunakan hosting 000webhost. Aplikasi ini memungkinkan pengguna untuk membeli tiket konser secara online.
 
 ## Fitur
-
 - Pemesanan tiket konser secara online.
 - Pilihan kursi yang tersedia.
 - Proses pembayaran yang aman.
 
-## Teknologi yang Digunakan
-
+## Tools
+- **Pengujian API**: [Postman](https://www.postman.com/))
 - **Hosting**: [000webhost](https://www.000webhost.com/)
 - **Framework CSS**: [Bootstrap](https://getbootstrap.com/)
 
 ## Getting Started:
 langkah hosting web:
 1. Buat lah project web baru di 000webhost (untuk hosting), setelahnya buat database dan javascript di dalamnya
-2. uji coba link hosting pada web postman
+2. lakukan pengujian link hosting pada web postman
 3. tambahkan dan konfigurasikan link hosting pada project 
 
 screenshoot hasil projek:   
